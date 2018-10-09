@@ -53,3 +53,27 @@ class AccountManager(BaseUserManager):
         account.set_password(password)
         account.save(using = self._db)
         return account
+
+    def create_user(self, email, username, password, image = None, **extra_fields):
+        return self._create_user(email, username, password, image, False, False,
+                **extra_fields)
+    
+    def create_superuser(self, email, username, password, image = None, **extra_fields):
+        return self._create_user(email, username, password, image, True, True,
+                **extra_fields)
+
+
+class User(AbstractBaseUser, PermissionsMixin):
+    
+    email = models.EmailField(
+            verbose_name = _('email address'),
+            max_length = 255,
+            unique = True,
+            )
+    
+    username = models.CharField(_('username'), max_length=30, unique=True,
+                help_text=_('Required. 30 characters or fewer. Letters, digits'
+                            ' and ./+/-/_ only.'),
+                validators=[
+                    validators.RegexValidator(r'^[\w.+-]+$', _('Enter a valid username jebal.'), 'invalid')
+                ])
