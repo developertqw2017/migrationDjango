@@ -2,7 +2,7 @@ from django.db import models
 
 # Create your models here.
 
-from django.conf import setting
+from django.conf import settings
 from django.db import models
 from django.contrib.auth.models import (
         AbstractBaseUser, BaseUserManager, PermissionsMixin
@@ -77,3 +77,61 @@ class User(AbstractBaseUser, PermissionsMixin):
                 validators=[
                     validators.RegexValidator(r'^[\w.+-]+$', _('Enter a valid username jebal.'), 'invalid')
                 ])
+    first_name = models.CharField(_('first name'), max_length=30, blank=True)
+    last_name = models.CharField(_('last name'), max_length=30, blank=True)
+
+    is_staff = models.BooleanField(_('staff status'), default=False,
+        help_text=_('Designates whether the user can log into this admin site.'))
+    is_active = models.BooleanField(_('active'), default=True,
+        help_text=_('Designates whether this user should be treated as '
+                    'active. Unselect this instead of deleting accounts.'))
+
+    image = models.ImageField(upload_to='Images/',default='Images/None/No-img.jpg', blank=True, null=True)
+    #major = models.CharField(max_length=100, choices=MAJORS, default='Unknown', blank=False, null=False)
+    bio = models.TextField(blank=True, null=True)
+    # Use date_joined than created_at plz.
+    date_joined = models.DateTimeField(_('date joined'), default=timezone.now)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    objects = AccountManager()
+
+    USERNAME_FIELD = 'email'
+    REQUIRED_FIELDS = ['username']
+
+    class Meta:
+        verbose_name = _('user')
+        verbose_name_plural = _('users')
+        swappable = 'AUTH_USER_MODEL'
+
+    def __unicode__(self):
+        return self.email
+    
+    def __str__(self):
+        return unicode(self).encode('utf-8')
+
+
+    def get_email_id(self):
+        """
+        Returns account id.
+        """
+        return self.email
+
+    def get_full_name(self):
+        """
+        Returns the first_name plus the last_name, with a space in between.
+        """
+        full_name = '%s %s' % (self.first_name, self.last_name)
+        return full_name.strip()
+    full_name = property(get_full_name)
+
+    def get_short_name(self):
+        "Returns the short name for the user."
+        return self.first_name
+
+    def email_user(self, subject, message, from_email=None, **kwargs):
+        """
+        Sends an email to this User.
+        """
+        send_mail(subject, message, from_email, [self.email], **kwargs)
+
