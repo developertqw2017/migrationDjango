@@ -1,0 +1,296 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from [:react-native-gl-model-view] D:\code\Vecihi\node_modules\react-native-gl-model-view\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-code-push] D:\code\Vecihi\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-fs] D:\code\Vecihi\node_modules\react-native-fs\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-image-resizer] D:\code\Vecihi\node_modules\react-native-image-resizer\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] D:\code\Vecihi\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-google-analytics-bridge] D:\code\Vecihi\node_modules\react-native-google-analytics-bridge\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-vector-icons] D:\code\Vecihi\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-camera] D:\code\Vecihi\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\c8af6afc801ae3c4ba358c5f2d6ec12d\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\8b95b3f0d3b1b4f9fe5cf599c7fc77c6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\b2b22d1935926fcba409ec14618df8f3\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\a4efab9b6281cac9c1945e6b7f3c68c2\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\c771654459524bd03baad6ac3388b9c0\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\f0e224abcad9bda34fd5ad7cc1250c8f\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\64e086f8e0545f1e398315ab6120bc69\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\62f6e02ed921be602bcc43159047cc77\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\3267c5842fc908b7ede85bce5ceaac9b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\3ecc2a0b54b60225e326a7d876cd294d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\0d5ac3377a2b91782e553e75dafe11d0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\7f5393bf276cc62989731f21a1a2e8be\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\003bb5cec058d32be5f0c0087b406805\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\97c7faa37d42ff89da65ecb87bf5b060\AndroidManifest.xml:17:1-27:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\c258531b59d8753db6e7e8c57b10993c\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\0444346192d7eb3e93586abc157d2146\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\3f859af8d61f3f2df5c9713f762c5d69\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\db9e70ea9e04b61abdc73005ff72339a\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\a25759a91f4398feedead6e419a43a3c\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\99f9664a519665008cccf51e4564f023\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\9471376553f28ae3e8d5da68de84f2fb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\35079003f419e0f4e30fd134fa6dc096\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\ec8cf269f537dd3e4b8d8572af29cccc\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:1:1-35:12
+	package
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:2:5-25
+		INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:6:5-65
+MERGED from [:react-native-camera] D:\code\Vecihi\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+MERGED from [:react-native-camera] D:\code\Vecihi\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.INTERNET
+ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [:react-native-code-push] D:\code\Vecihi\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-code-push] D:\code\Vecihi\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-google-analytics-bridge] D:\code\Vecihi\node_modules\react-native-google-analytics-bridge\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-google-analytics-bridge] D:\code\Vecihi\node_modules\react-native-google-analytics-bridge\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\b2b22d1935926fcba409ec14618df8f3\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\b2b22d1935926fcba409ec14618df8f3\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\c771654459524bd03baad6ac3388b9c0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\c771654459524bd03baad6ac3388b9c0\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:8:5-77
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\c8af6afc801ae3c4ba358c5f2d6ec12d\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\c8af6afc801ae3c4ba358c5f2d6ec12d\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:8:22-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:10:5-81
+MERGED from [:react-native-fs] D:\code\Vecihi\node_modules\react-native-fs\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-81
+MERGED from [:react-native-fs] D:\code\Vecihi\node_modules\react-native-fs\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:10:22-78
+uses-sdk
+ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:12:5-14:41
+INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:12:5-14:41
+INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:12:5-14:41
+MERGED from [:react-native-gl-model-view] D:\code\Vecihi\node_modules\react-native-gl-model-view\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gl-model-view] D:\code\Vecihi\node_modules\react-native-gl-model-view\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-code-push] D:\code\Vecihi\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-code-push] D:\code\Vecihi\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] D:\code\Vecihi\node_modules\react-native-fs\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] D:\code\Vecihi\node_modules\react-native-fs\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-resizer] D:\code\Vecihi\node_modules\react-native-image-resizer\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-resizer] D:\code\Vecihi\node_modules\react-native-image-resizer\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] D:\code\Vecihi\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] D:\code\Vecihi\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-analytics-bridge] D:\code\Vecihi\node_modules\react-native-google-analytics-bridge\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-analytics-bridge] D:\code\Vecihi\node_modules\react-native-google-analytics-bridge\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\code\Vecihi\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\code\Vecihi\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] D:\code\Vecihi\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] D:\code\Vecihi\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\c8af6afc801ae3c4ba358c5f2d6ec12d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\c8af6afc801ae3c4ba358c5f2d6ec12d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\8b95b3f0d3b1b4f9fe5cf599c7fc77c6\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\8b95b3f0d3b1b4f9fe5cf599c7fc77c6\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\b2b22d1935926fcba409ec14618df8f3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\b2b22d1935926fcba409ec14618df8f3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\a4efab9b6281cac9c1945e6b7f3c68c2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\a4efab9b6281cac9c1945e6b7f3c68c2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\c771654459524bd03baad6ac3388b9c0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\c771654459524bd03baad6ac3388b9c0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\f0e224abcad9bda34fd5ad7cc1250c8f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\f0e224abcad9bda34fd5ad7cc1250c8f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\64e086f8e0545f1e398315ab6120bc69\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\64e086f8e0545f1e398315ab6120bc69\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\62f6e02ed921be602bcc43159047cc77\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\62f6e02ed921be602bcc43159047cc77\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\3267c5842fc908b7ede85bce5ceaac9b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\3267c5842fc908b7ede85bce5ceaac9b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\3ecc2a0b54b60225e326a7d876cd294d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\3ecc2a0b54b60225e326a7d876cd294d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\0d5ac3377a2b91782e553e75dafe11d0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\0d5ac3377a2b91782e553e75dafe11d0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\7f5393bf276cc62989731f21a1a2e8be\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\7f5393bf276cc62989731f21a1a2e8be\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\003bb5cec058d32be5f0c0087b406805\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\003bb5cec058d32be5f0c0087b406805\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\97c7faa37d42ff89da65ecb87bf5b060\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\97c7faa37d42ff89da65ecb87bf5b060\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\c258531b59d8753db6e7e8c57b10993c\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\c258531b59d8753db6e7e8c57b10993c\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\0444346192d7eb3e93586abc157d2146\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\0444346192d7eb3e93586abc157d2146\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\3f859af8d61f3f2df5c9713f762c5d69\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\3f859af8d61f3f2df5c9713f762c5d69\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\db9e70ea9e04b61abdc73005ff72339a\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\db9e70ea9e04b61abdc73005ff72339a\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\99f9664a519665008cccf51e4564f023\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\99f9664a519665008cccf51e4564f023\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\9471376553f28ae3e8d5da68de84f2fb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\9471376553f28ae3e8d5da68de84f2fb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\35079003f419e0f4e30fd134fa6dc096\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\35079003f419e0f4e30fd134fa6dc096\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\ec8cf269f537dd3e4b8d8572af29cccc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\ec8cf269f537dd3e4b8d8572af29cccc\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:12:5-14:41
+INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:12:5-14:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\3267c5842fc908b7ede85bce5ceaac9b\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:14:9-38
+		INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:13:9-35
+		INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:16:5-33:19
+MERGED from [:react-native-code-push] D:\code\Vecihi\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-15:19
+MERGED from [:react-native-code-push] D:\code\Vecihi\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-15:19
+MERGED from [:react-native-image-picker] D:\code\Vecihi\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] D:\code\Vecihi\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\c8af6afc801ae3c4ba358c5f2d6ec12d\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\c8af6afc801ae3c4ba358c5f2d6ec12d\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\8b95b3f0d3b1b4f9fe5cf599c7fc77c6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\8b95b3f0d3b1b4f9fe5cf599c7fc77c6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\b2b22d1935926fcba409ec14618df8f3\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\b2b22d1935926fcba409ec14618df8f3\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\a4efab9b6281cac9c1945e6b7f3c68c2\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\a4efab9b6281cac9c1945e6b7f3c68c2\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\c771654459524bd03baad6ac3388b9c0\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\c771654459524bd03baad6ac3388b9c0\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\f0e224abcad9bda34fd5ad7cc1250c8f\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\f0e224abcad9bda34fd5ad7cc1250c8f\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\64e086f8e0545f1e398315ab6120bc69\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\64e086f8e0545f1e398315ab6120bc69\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\62f6e02ed921be602bcc43159047cc77\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\62f6e02ed921be602bcc43159047cc77\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\3267c5842fc908b7ede85bce5ceaac9b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\3267c5842fc908b7ede85bce5ceaac9b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\3ecc2a0b54b60225e326a7d876cd294d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\3ecc2a0b54b60225e326a7d876cd294d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\0d5ac3377a2b91782e553e75dafe11d0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\0d5ac3377a2b91782e553e75dafe11d0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\7f5393bf276cc62989731f21a1a2e8be\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\7f5393bf276cc62989731f21a1a2e8be\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\003bb5cec058d32be5f0c0087b406805\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\003bb5cec058d32be5f0c0087b406805\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\97c7faa37d42ff89da65ecb87bf5b060\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\97c7faa37d42ff89da65ecb87bf5b060\AndroidManifest.xml:25:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\db9e70ea9e04b61abdc73005ff72339a\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\db9e70ea9e04b61abdc73005ff72339a\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\a25759a91f4398feedead6e419a43a3c\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\a25759a91f4398feedead6e419a43a3c\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:19:7-39
+	android:icon
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:20:7-41
+	android:allowBackup
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:18:7-33
+	android:theme
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:21:7-38
+	android:name
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:17:7-38
+activity#com.vecihi.MainActivity
+ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:22:7-31:18
+	android:label
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:24:9-41
+	android:windowSoftInputMode
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:26:9-51
+	android:configChanges
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:25:9-79
+	android:name
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:23:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:27:9-30:25
+action#android.intent.action.MAIN
+ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:28:13-65
+	android:name
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:28:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:29:13-73
+	android:name
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:29:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:32:7-84
+MERGED from [:react-native-code-push] D:\code\Vecihi\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:9-86
+MERGED from [:react-native-code-push] D:\code\Vecihi\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:9-86
+	android:name
+		ADDED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:32:17-81
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] D:\code\Vecihi\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] D:\code\Vecihi\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] D:\code\Vecihi\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] D:\code\Vecihi\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] D:\code\Vecihi\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] D:\code\Vecihi\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] D:\code\Vecihi\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] D:\code\Vecihi\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:17-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-google-analytics-bridge] D:\code\Vecihi\node_modules\react-native-google-analytics-bridge\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\b2b22d1935926fcba409ec14618df8f3\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\b2b22d1935926fcba409ec14618df8f3\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\c771654459524bd03baad6ac3388b9c0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\c771654459524bd03baad6ac3388b9c0\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from [:react-native-google-analytics-bridge] D:\code\Vecihi\node_modules\react-native-google-analytics-bridge\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:22-76
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] D:\code\Vecihi\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:react-native-camera] D:\code\Vecihi\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:react-native-camera] D:\code\Vecihi\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] D:\code\Vecihi\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [:react-native-camera] D:\code\Vecihi\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [:react-native-camera] D:\code\Vecihi\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:9-57
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\b2b22d1935926fcba409ec14618df8f3\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\c771654459524bd03baad6ac3388b9c0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\c771654459524bd03baad6ac3388b9c0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\b2b22d1935926fcba409ec14618df8f3\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\f0e224abcad9bda34fd5ad7cc1250c8f\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\f0e224abcad9bda34fd5ad7cc1250c8f\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\f0e224abcad9bda34fd5ad7cc1250c8f\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\f0e224abcad9bda34fd5ad7cc1250c8f\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\62f6e02ed921be602bcc43159047cc77\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\62f6e02ed921be602bcc43159047cc77\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\62f6e02ed921be602bcc43159047cc77\AndroidManifest.xml:20:20-65
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\code\Vecihi\android\app\src\main\AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4

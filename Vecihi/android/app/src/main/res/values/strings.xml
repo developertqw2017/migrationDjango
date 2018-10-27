@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">react-native run-android or</string>
+    <string name="app_name">vecihi</string>
+</resources>

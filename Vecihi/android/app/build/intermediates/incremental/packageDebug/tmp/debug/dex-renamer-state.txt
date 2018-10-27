@@ -1,0 +1,4 @@
+#Wed Oct 24 10:16:33 CST 2018
+base.0=D\:\\code\\Vecihi\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+path.0=classes.dex
+renamed.0=classes.dex
