@@ -1,0 +1,29 @@
+.form-assessment-line{
+    width:50px;
+}
+#performance-history{
+    padding-bottom:2px;
+    border-bottom:solid 1px #428bca;
+}
+#performance-history-score{
+    float:right;
+    color:red;
+}
+.department-select{
+    width:200px;
+    height:30px;
+    border-radius:2px 2px;
+}
+.month-select{
+    width:100px;
+    height:30px;
+    border-radius:2px 2px;
+}
+.name-search{
+    width:200px;
+    height:30px;
+}
+.performance-table tbody{
+    border-bottom:2px solid ;
+
+}
